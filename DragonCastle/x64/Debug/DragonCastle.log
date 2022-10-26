@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\vagrant\source\repos\DragonCastle\DragonCastle\Source.cpp(91,45): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+C:\Users\vagrant\source\repos\DragonCastle\DragonCastle\Source.cpp(92,58): warning C4267: '=': conversion from 'size_t' to 'USHORT', possible loss of data
+C:\Users\vagrant\source\repos\DragonCastle\DragonCastle\Source.cpp(216,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vagrant\source\repos\DragonCastle\DragonCastle\Source.cpp(236,29): warning C4477: 'snprintf' : format string '%08llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'unsigned char *'
+C:\Users\vagrant\source\repos\DragonCastle\DragonCastle\Source.cpp(335,90): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  sspi_c.cpp
+  Generating Code...
+  DragonCastle.vcxproj -> C:\Users\vagrant\source\repos\DragonCastle\x64\Debug\DragonCastle.dll
